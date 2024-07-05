@@ -1,4 +1,4 @@
-with open("my_file.txt", "C") ass file:
+with open("my_file.txt", "A") ass file:
   content = file.read()
   print(content)
 )
